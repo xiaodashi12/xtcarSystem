@@ -1,6 +1,6 @@
 # my-project
 
-## Project setup
+## Project setup test
 ```
 yarn install
 ```
